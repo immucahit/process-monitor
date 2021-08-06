@@ -1,9 +1,14 @@
 {
-    "name": "laravel/laravel",
+    "name": "immucahit/process-monitor",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
-    "license": "MIT",
+    "description": "Process Monitor",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Mücahit Bayraktar",
+            "email": "immucahit@outlook.com"
+        }
+    ],
     "require": {
         "php": "^7.3|^8.0",
         "fideloper/proxy": "^4.4",
